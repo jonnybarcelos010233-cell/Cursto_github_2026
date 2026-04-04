@@ -1,0 +1,4 @@
+ls > mostra o que tem na pasta
+cd > move entre arquivos e pastas
+pwd > mostra onde você está
+cat > Mostra o que tem dentro do arquivo
