@@ -1,3 +1,5 @@
 Git init = inicializar o git
 git status = mostra quais comits e quais ainda não estão salvos
-git add
+git add > adiciona arquivos para serem comitados
+git commit -m > comita o arquivo
+git log > mostra todos os arquivos
