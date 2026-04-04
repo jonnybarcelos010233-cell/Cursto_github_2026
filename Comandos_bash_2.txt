@@ -5,4 +5,4 @@ cat > Mostra o que tem dentro do arquivo
 rm > remove arquivos
 rm -rf > remove de forma recursiva e forçada todos os diretórios 
 
-fodase
+fodase fodase de novo
