@@ -1,0 +1,3 @@
+Git init = inicializar o git
+git status = mostra quais comits e quais ainda não estão salvos
+git add
