@@ -1,8 +1,8 @@
-Git init = inicializar o git
-git status = mostra quais comits e quais ainda não estão salvos
-git add > adiciona arquivos para serem comitados
-git commit -m > comita o arquivo
-git log > mostra todos os arquivos
+Git init          > inicializar o git
+git status        > mostra quais comits e quais ainda não estão salvos
+git add           > adiciona arquivos para serem comitados
+git commit -m     > comita o arquivo
+git log           > mostra todos os arquivos
 
 ## FLUCO DE TRABALHO
 
@@ -12,6 +12,6 @@ git log > mostra todos os arquivos
 4. git status
 5. git add<nome arquivos>
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "mensagem estranha"
 8. git status
 9. volta para o passo 3
