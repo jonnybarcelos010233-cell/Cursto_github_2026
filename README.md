@@ -3,3 +3,5 @@
 Um curso para iniciantes aprenderem a trabalhar com versionamento de codigos e repositorios remotos com git hub, alem disso vamos trabalhar com git flow e viual studios code 
 
 pessoas novas 
+
+confira tudo no youtube, segue o link para o curso 2025
